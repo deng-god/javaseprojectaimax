@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/mayuan-chat-server/mayuan-chat-server.iml" filepath="$PROJECT_DIR$/mayuan-chat-server/mayuan-chat-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/mayuan-chat-system/mayuan-chat-system.iml" filepath="$PROJECT_DIR$/mayuan-chat-system/mayuan-chat-system.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-test-mayuan/my-test-mayuan.iml" filepath="$PROJECT_DIR$/my-test-mayuan/my-test-mayuan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_practice2-mayuan/my_practice2-mayuan.iml" filepath="$PROJECT_DIR$/my_practice2-mayuan/my_practice2-mayuan.iml" />
     </modules>
   </component>
 </project>
